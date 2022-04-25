@@ -1,7 +1,7 @@
 # thecodedevil.github.io
 ## Hiking tours
 |Date      |Location                      |Distance |Altimeter|Duration|Harzer Wandernadel|
-|:---------|:-------------------------    |:--------|:--------|:-------|:-----------------|
+|:---------|:-----------------------------|:--------|:--------|:-------|:-----------------|
 |2022-04-23|Ballenstedt                   |11,53km  |166m     |03:26h  |BS Roseburg, BS Schloss Ballenstedt, HWN 61, HWN 161, HS 61|
 |2022-04-18|Sophienhof                    |11,79km  |297m     |03:21h  |HWN 48, HWN 51, HWN 97 ???|
 |2022-04-16|Ilsenburg                     |14,44km  |429m     |04:24h  |HKW Kloster Ilsenburg, HWN 4, HWN 5, Sonderstempel Borkenkäferpfad-Tour 2021 ???|
@@ -37,4 +37,4 @@
 |HKW|Harzer Klosterwanderweg|
 |HBS|Harzer BaudenSteig|
 |WS|Wanderstempel|
-| |Sonderstempel
+|?|Sonderstempel
