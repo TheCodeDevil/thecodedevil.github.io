@@ -27,8 +27,8 @@
 |2022-01-01|Jerichower Land               |6,34km   |6Hm      |01:28h  |?|
 
 ## Stats
-Distance total: 209,36km
-Distance Harz:   91,34km
+Distance total: 209,36km  
+Distance Harz:   91,34km  
 
 ## Legend
 |Date|Location|
