@@ -42,3 +42,34 @@ Distance Harz:   91,34km (Update 2022-04-23)
 |HBS|Harzer BaudenSteig|
 |WS|Wanderstempel||2
 |ST|Sonderstempel||1
+
+## Challenges
+|Challenge                |Rule                              |Status  |Comment
+|-------------------------|----------------------------------|--------|-------
+|HWN Bronze               |  8 normale Stempel               |100,00%|
+|HWN Silber               | 16 normale Stempel               |100,00%|
+|HWN Gold                 | 24 normale Stempel               |100,00%|
+|Harzer Wanderköngig      | 50 normale Stempel               |100,00%|
+|Der Harzer Kaiserrucksack|100 normale Stempel               |100,00%| noch nicht nachgewiesen
+|Harzer Kaiserschuh       |150 normale Stempel               |131/150 87,33%|
+|Harzer Wanderkaiser      |222 normale Stempel               |131/222 59,01%|
+|Harzer Steiger           | 23 Steiger und 88 normale Stempel| 99/111 89,19%|
+|Harzer-Hexen-Stieg       | 11 Hexen und HWN 69 + HWN 140    |100,00%|
+|Goethe im Harz           | 28 Goethe                        | 24/ 28 85,71%|
+|Harzer Grenzweg          | 23 Grenzweg                      | 15/ 23 65,22%|
+|Lutherweg                | 10 Lutherweg                     |  1/ 10 10,00%|
+|Harzer Klosterwanderweg  | 12 Kloster                       |  9/ 12 75,00%|Weg wurde um 3 erweitert, das alte Heft ist voll
+|Harzer Baudensteig       |  9 Bauden                        |  0/  9  0,00%|
+|Burgen und Schlösser     | 32 Burgen                        | 11/ 32 34,88%|
+
+
+
+
+
+
+
+
+
+
+
+
