@@ -3,6 +3,7 @@
 ## Hiking tours
 |Date      |Location                      |Distance |Altimeter|Duration|Harzer Wandernadel|
 |----------|------------------------------|---------|---------|--------|------------------|
+|2022-04-30|Güntersberge                  |15,33km  |157m     |04:12h  |HWN 55, HWN 172, HS 172, BS Güntersburg
 |2022-04-23|Ballenstedt                   |11,53km  |166m     |03:26h  |HWN 61, HWN 161, HS 61, BS Roseburg, BS Schloss Ballenstedt
 |2022-04-18|Sophienhof                    |11,79km  |297m     |03:21h  |HWN 48, HWN 51, HWN 97
 |2022-04-16|Ilsenburg                     |14,44km  |429m     |04:24h  |HWN 4, HWN 5, HGW 4, HKW Kloster Ilsenburg, ST 9941 Borkenkäferpfad
@@ -27,8 +28,8 @@
 |2022-01-01|Jerichower Land               |6,34km   |6Hm      |01:28h  |
 
 ## Stats
-Distance total: 209,36km (Update 2022-04-23)  
-Distance Harz:   91,34km (Update 2022-04-23)  
+Distance total: 224,69km (Update 2022-04-30)  
+Distance Harz:  106,67km (Update 2022-04-30)  
 
 |Acronym|Descriptions|2021|2022
 |----|------------|----|----
@@ -50,7 +51,7 @@ Distance Harz:   91,34km (Update 2022-04-23)
 |HWN Silber               | 16 normale Stempel               |100,00%|
 |HWN Gold                 | 24 normale Stempel               |100,00%|
 |Harzer Wanderköngig      | 50 normale Stempel               |100,00%|
-|Der Harzer Kaiserrucksack|100 normale Stempel               |100,00%| noch nicht nachgewiesen
+|Der Harzer Kaiserrucksack|100 normale Stempel               |100,00%|
 |Harzer Kaiserschuh       |150 normale Stempel               |131/150 87,33%|
 |Harzer Wanderkaiser      |222 normale Stempel               |131/222 59,01%|
 |Harzer Steiger           | 23 Steiger und 88 normale Stempel| 99/111 89,19%|
@@ -61,15 +62,4 @@ Distance Harz:   91,34km (Update 2022-04-23)
 |Harzer Klosterwanderweg  | 12 Kloster                       |  9/ 12 75,00%|Weg wurde um 3 erweitert, das alte Heft ist voll
 |Harzer Baudensteig       |  9 Bauden                        |  0/  9  0,00%|
 |Burgen und Schlösser     | 32 Burgen                        | 11/ 32 34,88%|
-
-
-
-
-
-
-
-
-
-
-
 
