@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>comapp openstreetmap-Generator</title>
+	<link rel="stylesheet" type="text/css" href="http://www.comapp-online.de/osm3/shared/css/generator_3.0/map.css" />
+</head>
+<body id="fe">
+	<div id="map"></div>
+	<script type="text/javascript" src="http://openlayers.org/api/OpenLayers.js"></script>
+	<script type="text/javascript" src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+	<script type="text/javascript" src="http://www.comapp-online.de/osm3/shared/js/jquery_1.8.3/jquery.min.js"></script>
+	<script type="text/javascript" src="http://www.comapp-online.de/osm3/shared/js/plugins/jquery.flash.js"></script>
+	<script type="text/javascript" src="http://www.comapp-online.de/osm3/shared/js/plugins/modernizr_2.6.2.js"></script>
+	<script type="text/javascript" src="http://www.comapp-online.de/osm3/shared/js/generator_3.0/mapGenerator.min.js"></script>
+	<script type="text/javascript">
+		(function($){
+			// ********** - comapp - mapGenerator jsonData - start - ************ //
+			var json = {"version":3,"locale":"de","units":"m","flashPath":"http://www.comapp-online.de/osm3/shared/swf/audioPlayer.swf","iconPath":"http://www.comapp-online.de/osm3/shared/img/marker/","geoPath":"http://www.comapp-online.de/osm3/shared/ajax/geopos.php","audioPlayImage":"http://www.comapp-online.de/osm3/shared/img/play.png","audioStopImage":"http://www.comapp-online.de/osm3/shared/img/stop.png","audioDownloadImage":"http://www.comapp-online.de/osm3/shared/img/download.png","geoDownloadImage":"http://www.comapp-online.de/osm3/shared/img/geo.png",
+			"title":"Harzer%20Wandernadel",
+			"descriptionStartStatus":1,"descriptionText":"Mein Beschreibungstext",
+			"descriptionButtonShowText":"Informationen und Hilfe zur Karte anzeigen",
+			"descriptionButtonHideText":"Informationen und Hilfe zur Karte verstecken",
+			"lon":11.083392333985,"lat":51.692961109908,"zoom":9,"panzoombar":1,"permalinkchk":1,"scaleline":1,"showPopupOnHover":true,
+
+			"markers":[
+				{"markerName":"HWN 1","markerLon":10.57664794921912,"markerLat":51.72529778727768,"markerIconImage":4,"markerContent":"HWN 1 - Eckertalsperre (Staumauer)","markerNameLink":""},
+				{"markerName":"HWN 2","markerLon":10.602845922857194,"markerLat":51.830238818440996,"markerIconImage":4,"markerContent":"HWN 2 - Scharfenstein (Rangerstation)","markerNameLink":""}
+			],
+	
+			"requiredField":"Dieses Feld muss ausgefüllt werden."};
+			// ********** - comapp - mapGenerator jsonData - end - ************ //
+			$.fn.getJsonData = function() {
+				return json;
+			};
+			$('body').mapGeneratorModel('initVal');
+			$('body').mapGeneratorMap('buildMap');
+			$('body').mapGeneratorMap('setBaseMode');
+		})(window.jQuery);
+		
+		
+		if (!window.console) console = {
+			log: function() {},
+			info: function() {},
+			warn: function() {},
+			error: function() {},
+			debug: function() {}
+		};
+		function setFlashStatus() {
+			$('body').mapGeneratorModel('setFlashStatus',true);
+		}
+	</script>
+	<script type="text/javascript" src="http://mediensyndikat.de/geo/generator2.js"></script>
+</body>
+</html>
