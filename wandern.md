@@ -3,8 +3,9 @@
 ## Hiking tours
 |Date      |Location                      |Distance |Altimeter|Duration|Harzer Wandernadel|
 |----------|------------------------------|---------|---------|--------|------------------|
-|2022-04-30|Güntersberge                  |15,33km  |157m     |04:12h  |HWN 55, HWN 172, HS 172, BS Güntersburg, BS Kleines Schloss Blankenburg, ST Bundeswehr Ausstellung
-|2022-04-23|Ballenstedt                   |11,53km  |166m     |03:26h  |HWN 61, HWN 161, HS 61, BS Roseburg, BS Schloss Ballenstedt
+|2022-05-07|Bad Sachsa                    |9,60km   |325m     |05:12h  |HWN 161, HWN 220, HBS Ravensberg
+|2022-04-30|Güntersberge                  |15,33km  |157m     |04:12h  |HWN 55, HWN 172, HWN 173, HS 172, BS Güntersburg, BS Kleines Schloss Blankenburg, ST Bundeswehr Ausstellung
+|2022-04-23|Ballenstedt                   |11,53km  |166m     |03:26h  |HWN 61, HWN 181, HS 61, BS Roseburg, BS Schloss Ballenstedt
 |2022-04-18|Sophienhof                    |11,79km  |297m     |03:21h  |HWN 48, HWN 51, HWN 97
 |2022-04-16|Ilsenburg                     |14,44km  |429m     |04:24h  |HWN 4, HWN 5, HGW 4, HKW Kloster Ilsenburg, ST 9941 Borkenkäferpfad
 |2022-04-09|Jerichower Land               |10,79km  |12m      |02:35h  |
@@ -28,8 +29,8 @@
 |2022-01-01|Jerichower Land               |6,34km   |6Hm      |01:28h  |
 
 ## Stats
-Distance total: 224,69km (Update 2022-04-30)  
-Distance Harz:  106,67km (Update 2022-04-30)  
+Distance total: 234,29km (Update 2022-05-07)  
+Distance Harz:  116,27km (Update 2022-05-07)  
 
 |Acronym|Descriptions|2021|2022
 |----|------------|----|----
@@ -52,14 +53,14 @@ Distance Harz:  106,67km (Update 2022-04-30)
 |HWN Gold                 | 24 normale Stempel               |100,00%|
 |Harzer Wanderköngig      | 50 normale Stempel               |100,00%|
 |Der Harzer Kaiserrucksack|100 normale Stempel               |100,00%|
-|Harzer Kaiserschuh       |150 normale Stempel               |131/150 87,33%|
-|Harzer Wanderkaiser      |222 normale Stempel               |131/222 59,01%|
+|Harzer Kaiserschuh       |150 normale Stempel               |136/150 90,67%|
+|Harzer Wanderkaiser      |222 normale Stempel               |136/222 61,26%|
 |Harzer Steiger           | 23 Steiger und 88 normale Stempel| 99/111 89,19%|
 |Harzer-Hexen-Stieg       | 11 Hexen und HWN 69 + HWN 140    |100,00%|
 |Goethe im Harz           | 28 Goethe                        | 24/ 28 85,71%|
 |Harzer Grenzweg          | 23 Grenzweg                      | 15/ 23 65,22%|
 |Lutherweg                | 10 Lutherweg                     |  1/ 10 10,00%|
 |Harzer Klosterwanderweg  | 12 Kloster                       |  9/ 12 75,00%|Weg wurde um 3 erweitert, das alte Heft ist voll
-|Harzer Baudensteig       |  9 Bauden                        |  0/  9  0,00%|
+|Harzer Baudensteig       |  9 Bauden                        |  1/  9 11,11%|
 |Burgen und Schlösser     | 32 Burgen                        | 11/ 32 34,88%|
 
