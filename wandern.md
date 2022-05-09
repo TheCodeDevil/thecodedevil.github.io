@@ -34,16 +34,17 @@ Distance Harz:  116,27km (Update 2022-05-07)
 
 |Acronym|Descriptions|2021|2022
 |----|------------|----|----
-|HWN |Harzer Wandernadel||17
-|BS|Harzer Geschichtsorte "Burgen und Schlösser"||4
-|HS|Der Harzer Steiger||3
+|HWN |Harzer Wandernadel||22
+|BS|Harzer Geschichtsorte "Burgen und Schlösser"||6
+|HS|Der Harzer Steiger||4
 |HGW|Harzer Grenzweg||1
 |GH|Wandernadel "Goethe im Harz"||1
 |HHS|Harzer Hexenstieg|
 |HKW|Harzer Klosterwanderweg||1
-|HBS|Harzer BaudenSteig|
+|HBS|Harzer BaudenSteig||1
 |WS|Wanderstempel||2
-|ST|Sonderstempel||1
+|ST|Sonderstempel||2
+(Update 2022-05-07)
 
 ## Challenges
 |Challenge                |Rule                              |Status  |Comment
