@@ -3,6 +3,7 @@
 ## Hiking tours
 |Date      |Location                      |Distance |Altimeter|Duration|Harzer Wandernadel|
 |----------|------------------------------|---------|---------|--------|------------------|
+|2022-05-14|Neuhof, Benneckenstein        |10,40km  |76m      |02:57   |HWN 166, HWN 167, HWN 192, HGW 166, HGW 167, KWW 166, KWW 167, KWW 167, ST Backhaus Neuhof 14.05.2022, ST Das rote Sofa Benneckenstein
 |2022-05-07|Bad Sachsa                    |9,60km   |325m     |05:12h  |HWN 161, HWN 220, HBS Ravensberg
 |2022-04-30|Güntersberge                  |15,33km  |157m     |04:12h  |HWN 55, HWN 172, HWN 173, HS 172, BS Güntersburg, BS Kleines Schloss Blankenburg, ST Bundeswehr Ausstellung
 |2022-04-23|Ballenstedt                   |11,53km  |166m     |03:26h  |HWN 61, HWN 181, HS 61, BS Roseburg, BS Schloss Ballenstedt
@@ -29,22 +30,23 @@
 |2022-01-01|Jerichower Land               |6,34km   |6Hm      |01:28h  |
 
 ## Stats
-Distance total: 234,29km (Update 2022-05-07)  
-Distance Harz:  116,27km (Update 2022-05-07)  
+Distance total: 244,69km (Update 2022-05-14)  
+Distance Harz:  126,67km (Update 2022-05-14)  
 
 |Acronym|Descriptions|2021|2022
 |----|------------|----|----
-|HWN |Harzer Wandernadel||22
+|HWN |Harzer Wandernadel||25
 |BS|Harzer Geschichtsorte "Burgen und Schlösser"||6
 |HS|Der Harzer Steiger||4
-|HGW|Harzer Grenzweg||1
+|HGW|Harzer Grenzweg||3
 |GH|Wandernadel "Goethe im Harz"||1
 |HHS|Harzer Hexenstieg|
 |HKW|Harzer Klosterwanderweg||1
 |HBS|Harzer BaudenSteig||1
+|KWW|Karstwanderweg Harz|3
 |WS|Wanderstempel||2
-|ST|Sonderstempel||2
-(Update 2022-05-07)
+|ST|Sonderstempel||4
+(Update 2022-05-14)
 
 ## Challenges
 |Challenge                |Rule                              |Status  |Comment
@@ -54,14 +56,15 @@ Distance Harz:  116,27km (Update 2022-05-07)
 |HWN Gold                 | 24 normale Stempel               |100,00%|
 |Harzer Wanderköngig      | 50 normale Stempel               |100,00%|
 |Der Harzer Kaiserrucksack|100 normale Stempel               |100,00%|
-|Harzer Kaiserschuh       |150 normale Stempel               |136/150 90,67%|
-|Harzer Wanderkaiser      |222 normale Stempel               |136/222 61,26%|
+|Harzer Kaiserschuh       |150 normale Stempel               |139/150 92,67%|
+|Harzer Wanderkaiser      |222 normale Stempel               |139/222 62,61%|
 |Harzer Steiger           | 23 Steiger und 88 normale Stempel| 99/111 89,19%|
 |Harzer-Hexen-Stieg       | 11 Hexen und HWN 69 + HWN 140    |100,00%|
 |Goethe im Harz           | 28 Goethe                        | 24/ 28 85,71%|
-|Harzer Grenzweg          | 23 Grenzweg                      | 15/ 23 65,22%|
+|Harzer Grenzweg          | 23 Grenzweg                      | 17/ 23 73,91%|
 |Lutherweg                | 10 Lutherweg                     |  1/ 10 10,00%|
 |Harzer Klosterwanderweg  | 12 Kloster                       |  9/ 12 75,00%|Weg wurde um 3 erweitert, das alte Heft ist voll
 |Harzer Baudensteig       |  9 Bauden                        |  1/  9 11,11%|
 |Burgen und Schlösser     | 32 Burgen                        | 11/ 32 34,88%|
+|Karstwanderweg Südharz   | 25 Karst                         |  3/ 25 12,00%|
 
